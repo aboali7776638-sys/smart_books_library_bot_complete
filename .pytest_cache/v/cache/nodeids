@@ -1,0 +1,5 @@
+[
+  "tests/api/test_points.py::test_points_schema",
+  "tests/api/test_recommendations.py::test_reco_schema",
+  "tests/api/test_users.py::test_user_schema"
+]

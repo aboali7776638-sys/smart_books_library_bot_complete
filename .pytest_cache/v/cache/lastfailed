@@ -1,0 +1,6 @@
+{
+  "tests/api/test_books.py": true,
+  "tests/bot/test_books.py": true,
+  "tests/bot/test_start.py": true,
+  "tests/db/test_models.py": true
+}
